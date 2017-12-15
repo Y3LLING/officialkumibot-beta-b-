@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "Kumi-bot",
+  "description": "Official Kumi Bot",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
